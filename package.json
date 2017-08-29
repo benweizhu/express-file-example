@@ -1,0 +1,11 @@
+{
+  "name": "express-file-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:benweizhu/express-file-example.git",
+  "author": "benweizhu <benweizhu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
